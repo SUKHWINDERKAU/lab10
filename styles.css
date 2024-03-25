@@ -69,7 +69,7 @@ main {
 	background-color: white;
 	/* Arrange the SECTION and the ASIDE elements side-by-side in columns */
 	display: flex;
-	flex-direction:row;
+	flex-direction: row ;
 }
 
 /* STEP 5a: Put a 1px dotted hotpink border around MAIN SECTION in the CSS rule below so we can see the box on the screen */
